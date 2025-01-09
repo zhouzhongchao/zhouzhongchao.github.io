@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 ======
+<p>
 Hi，welcome to my site, I am Zhou Zhongchao, an upcoming Project Researcher at the Matsuo-Iwazawa Lab at the University of Tokyo, starting my role in April 2025. My academic journey has been shaped by a PhD degree from Chiba University, where I was supervised by [Prof Wenwei Yu](https://www.tms.chiba-u.jp/~yu/member_prof.html), and an enriching academic visit at Healthcare Biorobotics Lab(HBL) at the University of Oxford, supervised by [Prof Liang He](https://eng.ox.ac.uk/people/liang-he/). My research interests lie in the intersection of robotics and AI, especially soft robotics and learning control.
+</p>
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
