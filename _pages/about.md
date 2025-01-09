@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
+======
 Hi，welcome to my site, I am Zhou Zhongchao, an upcoming Project Researcher at the Matsuo-Iwazawa Lab at the University of Tokyo, starting my role in April 2025. My academic journey has been shaped by a PhD degree from Chiba University, where I was supervised by Prof Wenwei yu, and an enriching academic visit at Healthcare Biorobotics Lab(HBL) at the University of Oxford, supervised by Prof Liang He. My research interests lie in the intersection of robotics and AI, especially soft robotics and learning control.
 
 ======
