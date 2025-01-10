@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "jp-Japan"
-title                    : "Zhongchao Zhou"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zhongchao Zhou(周忠潮)"
 description              : &description "personal description"
