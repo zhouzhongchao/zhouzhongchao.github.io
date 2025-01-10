@@ -20,11 +20,11 @@ I am very interested in collaborations and various research opportunities. Feel 
 Work experience
 ======
 * 2025.04 ~: Project researcher
-  * University of Tokyo(Matsuo-iwasawa Lab)
+  * University of Tokyo
   * Supervisor: Professor Yutaka Matsuo, Professor Yusuke Iwasawa
 
 * 2023.10 ~ 2024.04: Academic Visitors
-  * University of Oxford(Healthcare Biorobotics Lab)
+  * University of Oxford
   * Supervisor: Professor Liang He
 
 * 2018.10 ~ 2019.09: Research student
@@ -40,7 +40,7 @@ Education
 Academic Affiliations
 ======
 <p align="center">
-  <img src="/images/utoyo.png" alt="图片描述" width="30%"/>
-  <img src="/images/logo.png" alt="图片描述" width="30%"/>
-  <img src="/images/oxford.png" alt="图片描述" width="30%"/>
+  <img src="/images/utoyo.png" alt="Utokyo" width="30%"/>
+  <img src="/images/logo.png" alt="Chiba" width="30%"/>
+  <img src="/images/oxford.png" alt="Uoxford" width="30%"/>
 </p>
