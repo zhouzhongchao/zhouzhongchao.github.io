@@ -22,23 +22,23 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Zhongchao Zhou(周忠潮)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Project Researcher at the Matsuo-Iwazawa Lab as well as TRAIL (Tokyo Robotics and AI Lab)"
   location         : "Japan"
   employer         : "University of Tokyo"
-  uri              : # URL
+  # uri              : # URL
   email            : "zhouzhongchao@outlook.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  # arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.co.jp/citations?user=gFzSj9sAAAAJ&hl=ja"
-  impactstory      : # URL
+  # impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-8799-7362"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Zhongchao-Zhou-2"
+  # scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
