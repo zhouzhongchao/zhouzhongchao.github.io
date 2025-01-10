@@ -15,7 +15,7 @@ My research interests lie in the intersection of robotics and AI, including soft
 </div>
 
 
-I am very interested in collaborations and various research opportunities. Feel free to contact me anytime!
+I am very interested in collaborations and various research opportunities. Feel free to contact me by zhouzhongchao@outlook.com
 
 Work experience
 ======
