@@ -3,7 +3,7 @@ title: "A GAN based PID controller for highly adaptive control of a pneumatic-ar
 collection: Complex & Intelligent Systems
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Zhongchao Zhou, Yuxi Lu, Shota Kokubu, Pablo Enrique Tortós, Wenwei Yu'
+excerpt: 'Keywords: Generative Adversarial Nets(GAN), Learning-based adaptive control, '
 date: 2010-10-01
 venue: 'Complex & Intelligent Systems'
 slidesurl: 'https://link.springer.com/article/10.1007/s40747-024-01488-y'
