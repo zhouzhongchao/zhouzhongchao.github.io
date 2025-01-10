@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -26,7 +26,11 @@ Work experience
 * 2023.10 ~ 2024.04: Academic Visitors
   * University of Oxford(Healthcare Biorobotics Lab)
   * Supervisor: Professor Liang He
-    
+
+* 2018.10 ~ 2019.09: Research student
+  * Chiba Unviersity
+  * Supervisor: Professor Wenwei Yu
+  
 Publication  
 ======
 
