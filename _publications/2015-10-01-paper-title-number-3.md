@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
+title: "Optimization of spring constant of a pneumatic artificial muscle-spring driven antagonistic structure"
+collection: IEEE Robotics and Automation Letters
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
+date: 2022/3/24
+venue: 'IEEE Robotics and Automation Letters'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Zhou, Zhongchao, et al. "Optimization of spring constant of a pneumatic artificial muscle-spring driven antagonistic structure." IEEE Robotics and Automation Letters 7.3 (2022): 5982-5989.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Pneumatic artificial muscles (PAMs) have been widely applied to robotic systems, especially assistive devices, which could benefit from PAMs’ intrinsic viscoelasticity. However, nonlinearity and hysteresis make it challenging to achieve high-accuracy control. Using pre-tensioned springs to replace one side PAMs in an antagonistic structure is one efficient way to improve control accuracy. However, in the previous study, the selection method for spring, especially the range of spring constant has not been sufficiently investigated. This study designed a method to find the optimal spring constant based on gradient descent algorithm; and verified it with prototype and simulation experiments. Results showed that the group with optimal spring constant leads to a faster response time, smaller overshoot, and lower steady-state error, which indicated that the proposed method could find optimal spring constant. Moreover, the sensitivity of PAMs dynamic model parameters to the optimal spring stiffness was investigated. This study provides insights to practical use of soft actuators.
