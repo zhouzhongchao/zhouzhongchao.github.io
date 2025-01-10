@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "zhou.png"
   name             : "Zhongchao Zhou(周忠潮)"
   pronouns         : # example: "she/her"  
   bio              : "Project Researcher at the Matsuo-Iwazawa Lab as well as TRAIL (Tokyo Robotics and AI Lab)"
