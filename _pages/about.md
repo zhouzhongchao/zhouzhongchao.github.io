@@ -43,10 +43,14 @@ Awards and Recognitions
 
 - **2024.10** - Third Prize, Nanohana Startup Competition, Chiba University
 - **2024.08** - Good Project Awar, Global Student Innovation Challenge Competition, Shanghai, China
-- **2024.08** - Best Paper Award in Universal Design, 17th International Convention on Rehabilitation Engineering and Assistive Technology, Shanghai, China
-- **2024.08** - Best Conference Paper Award, 17th International Convention on Rehabilitation Engineering and Assistive Technology, Shanghai, China
+- **2024.08** - Best Paper Award in Universal Design, 17th i-CREATe & WRRC 2024, Shanghai, China
+- **2024.08** - Best Conference Paper Award, 17th i-CREATe & WRRC 2024, Shanghai, China
 - **2024.02** - First Prize, Fresh Ideas Funding Competition, Mapping the Future of Soft Robotics for Healthcare, Wimbledon, UK
 - **2018.10** - IS 3T-in-3A Poster Award, Chiba, Japan
+
+Patent
+======
+
 
 Academic Affiliations
 ======
