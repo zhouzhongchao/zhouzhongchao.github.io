@@ -25,7 +25,7 @@ author:
   name             : "Zhongchao Zhou(周忠潮)"
   pronouns         : # example: "she/her"  
   bio              : <p style="text-align:justify;">Project Researcher at the Matsuo-Iwazawa Lab as well as TRAIL (Tokyo Robotics and AI Lab)</p>
-  location         : "Japan"
+  location         : "Tokyo, Japan"
   employer         : "University of Tokyo"
   # uri              : # URL
   email            : "zhouzhongchao@outlook.com" 
@@ -41,10 +41,10 @@ author:
   # scopus           : # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
+  # bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  # github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
