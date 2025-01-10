@@ -24,7 +24,7 @@ author:
   avatar           : "zhou2.png"
   name             : "Zhongchao Zhou(周忠潮)"
   pronouns         : # example: "she/her"  
-  bio              : "Project Researcher at the Matsuo-Iwazawa Lab as well as TRAIL (Tokyo Robotics and AI Lab)"
+  bio              : <p style="text-align:justify;">Project Researcher at the Matsuo-Iwazawa Lab as well as TRAIL (Tokyo Robotics and AI Lab)</p>
   location         : "Japan"
   employer         : "University of Tokyo"
   # uri              : # URL
