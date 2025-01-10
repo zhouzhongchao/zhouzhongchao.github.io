@@ -7,10 +7,32 @@ redirect_from:
   - /about.html
 ---
 
+About me
 ======
-<p>
-Hi，welcome to my site, I am Zhou Zhongchao, an upcoming Project Researcher at [the Matsuo-Iwazawa Lab](https://weblab.t.u-tokyo.ac.jp/) at the University of Tokyo, starting my role in April 2025. My academic journey has been shaped by a PhD degree from Chiba University, where I was supervised by [Prof Wenwei Yu](https://www.tms.chiba-u.jp/~yu/member_prof.html), and an enriching academic visit at Healthcare Biorobotics Lab(HBL) at the University of Oxford, supervised by [Prof Liang He](https://eng.ox.ac.uk/people/liang-he/). My research interests lie in the intersection of robotics and AI, especially soft robotics and learning control.
-</p>
+Hi, welcome to my site! I am **Zhou Zhongchao(周忠潮,シユウ　チュウチョウ)**, an upcoming Project Researcher at [the Matsuo-Iwazawa Lab](https://weblab.t.u-tokyo.ac.jp/) at the University of Tokyo, starting my role in April 2025. My academic journey has been shaped by a PhD degree from Chiba University, where I was supervised by [Prof Wenwei Yu](https://www.tms.chiba-u.jp/~yu/member_prof.html), and an enriching academic visit at Healthcare Biorobotics Lab (HBL) at the University of Oxford, supervised by [Prof Liang He](https://eng.ox.ac.uk/people/liang-he/). My research interests lie in the intersection of robotics and AI, especially soft robotics and learning control
+
+
+Education
+======
+* Ph.D in Medical Engineering, Chiba University, 2024
+* M.S. in Medical Engineering, Chiba University, 2021
+* B.S. in Mechanical Engineering, Qingdao University of Science and Technology, 2018
+
+Work experience
+======
+* 2025.04 ~: Project researcher
+  * University of Tokyo(Matsuo-iwasawa Lab)
+  * Supervisor: Professor Yutaka Matsuo, Professor Yusuke Iwasawa
+
+* 2023.10 ~ 2024.04: Academic Visitors
+  * University of Oxford(Healthcare Biorobotics Lab)
+  * Supervisor: Professor Liang He
+
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+  
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
