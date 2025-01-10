@@ -40,7 +40,8 @@ Education
 Academic Affiliations
 ======
 <p align="center">
-  <img src="/images/utoyo.png" alt="Utokyo" width="30%"/>
-  <img src="/images/logo.png" alt="Chiba" width="30%"/>
-  <img src="/images/oxford.png" alt="Uoxford" width="30%"/>
+  <img src="/images/utoyo.png" alt="Utokyo" width="25%"/>
+  <img src="/images/logo.png" alt="Chiba" width="25%"/>
+  <img src="/images/oxford.png" alt="Uoxford" width="25%"/>
+  <img src="/images/qust.png" alt="Uoxford" width="25%"/>
 </p>
