@@ -39,4 +39,8 @@ Education
 
 Academic Affiliations
 ======
-![图片描述](images/zhou.png)
+<p align="center">
+  <img src="/images/utoyo.png" alt="图片描述" width="30%"/>
+  <img src="/images/logo.png" alt="图片描述" width="30%"/>
+  <img src="/images/oxford.png" alt="图片描述" width="30%"/>
+</p>
