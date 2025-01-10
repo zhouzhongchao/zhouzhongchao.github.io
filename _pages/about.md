@@ -38,13 +38,15 @@ Education
 * M.S. in Medical Engineering, Chiba University, 2021
 * B.S. in Mechanical Engineering, Qingdao University of Science and Technology, 2018
 
-Education
+Awards and Recognitions
 ======
-2024.10 third prize of nanohana start up competation, Chiba University
-2024.08 Best Paper Award in Universal Design, 17th International Convention on Rehabilitation Engineering and Assistive Technology, Shanghai, China
-2024.08 Best Conference Paper Award, 17th International Convention on Rehabilitation Engineering and Assistive Technology, Shanghai, China
-2024.02 First prize of Fresh Ideas Funding Competition, Mapping the Future of Soft Robotics for Healthcare, Wimbledon, UK
-2018.10 IS 3T-in-3A Poster award, Chiba, Japan
+
+- **2024.10** - Third Prize, Nanohana Startup Competition, Chiba University
+- **2024.08** - Good Project Awar, Global Student Innovation Challenge Competition, Shanghai, China
+- **2024.08** - Best Paper Award in Universal Design, 17th International Convention on Rehabilitation Engineering and Assistive Technology, Shanghai, China
+- **2024.08** - Best Conference Paper Award, 17th International Convention on Rehabilitation Engineering and Assistive Technology, Shanghai, China
+- **2024.02** - First Prize, Fresh Ideas Funding Competition, Mapping the Future of Soft Robotics for Healthcare, Wimbledon, UK
+- **2018.10** - IS 3T-in-3A Poster Award, Chiba, Japan
 
 Academic Affiliations
 ======
