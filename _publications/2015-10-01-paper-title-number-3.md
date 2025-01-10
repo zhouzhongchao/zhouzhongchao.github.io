@@ -3,7 +3,7 @@ title: "Optimization of spring constant of a pneumatic artificial muscle-spring 
 collection: IEEE Robotics and Automation Letters
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Zhongchao Zhou, Shota Kokubu, Yuanyuan Wang, Yuxi Lu, Pablo Enrique Tortós, Wenwei Yu'
 date: 2022/3/24
 venue: 'IEEE Robotics and Automation Letters'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
