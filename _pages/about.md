@@ -37,5 +37,6 @@ Education
 * M.S. in Medical Engineering, Chiba University, 2021
 * B.S. in Mechanical Engineering, Qingdao University of Science and Technology, 2018
 
+Academic Affiliations
+======
 
-  
