@@ -3,7 +3,7 @@ title: "A GAN based PID controller for highly adaptive control of a pneumatic-ar
 collection: Complex & Intelligent Systems
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Zhongchao Zhou, Yuxi Lu, Shota Kokubu, Pablo Enrique Tortós, Wenwei Yu'
 date: 2010-10-01
 venue: 'Complex & Intelligent Systems'
 slidesurl: 'https://link.springer.com/article/10.1007/s40747-024-01488-y'
