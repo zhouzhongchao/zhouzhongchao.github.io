@@ -3,7 +3,7 @@ title: "Optimization of spring constant of a pneumatic artificial muscle-spring 
 collection: IEEE Robotics and Automation Letters
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'Zhongchao Zhou, Shota Kokubu, Yuanyuan Wang, Yuxi Lu, Pablo Enrique Tortós, Wenwei Yu'
+excerpt: 'Keywords: Optimization Algorithm, Dynamic systems analysis'
 date: 2022/3/24
 venue: 'IEEE Robotics and Automation Letters'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
