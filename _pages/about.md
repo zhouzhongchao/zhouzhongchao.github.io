@@ -90,5 +90,5 @@ Patent
 Academic Affiliations
 ======
 <p align="center">
-  <img src="/images/logo_u.png" alt="university" width="75%"/>
+  <img src="https://zhouzhongchao.github.io/zhouzhongchao/images/logo_u.png" alt="university" width="75%"/>
 </p>
