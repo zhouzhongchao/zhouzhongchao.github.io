@@ -89,5 +89,5 @@ Patent
 
 Academic Affiliations
 ======
-![university](/images/logo_u.png)
+![university](https://zhouzhongchao.github.io/zhouzhongchao/images/logo_u.png)
 
