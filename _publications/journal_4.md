@@ -4,7 +4,7 @@ collection: Complex & Intelligent Systems
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Keywords: Generative Adversarial Nets(GAN), Learning-based adaptive control, '
-date: 2010-10-01
+date: 2024/6/4
 venue: 'Complex & Intelligent Systems'
 slidesurl: 'https://link.springer.com/article/10.1007/s40747-024-01488-y'
 paperurl: 'https://link.springer.com/article/10.1007/s40747-024-01488-y'
