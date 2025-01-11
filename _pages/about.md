@@ -86,10 +86,6 @@ Patent
    A Dual-Layer Filtration Enteromorpha Collection Device(一种双层过滤浒苔收集装置)
 3. **Five additional utility model patents**  
 
-Competitive Research Funding recieved so far
-======
-1. Research Fellowship for Informatics-based Medical Engineering
-2. 
 
 Academic Affiliations
 ======
