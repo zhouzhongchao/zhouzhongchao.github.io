@@ -94,8 +94,5 @@ Competitive Research Funding recieved so far
 Academic Affiliations
 ======
 <p align="center">
-  <img src="/images/utoyo.png" alt="Utokyo" width="25%"/>
-  <img src="/images/logo.png" alt="Chiba" width="25%"/>
-  <img src="/images/oxford.png" alt="Uoxford" width="25%"/>
-  <img src="/images/qust.png" alt="Uoxford" width="25%"/>
+  <img src="/images/logo_u.png" alt="university" width="75%"/>
 </p>
