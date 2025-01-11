@@ -45,23 +45,23 @@ Awards and Recognitions
    Project name: PneumGo–空気圧制御システムソリューション
 
 3. **Good Project Award**  
-   Global Student Innovation Challenge Competition, 2024.08, Shanghai, China
+   Global Student Innovation Challenge Competition, 2024.08, Shanghai, China  
    Project name: PneumGo-The Intelligent Modular Pneumatic Control System for soft-robot Rehabilitation
 
 5. **Best Paper Award in Universal Design**  
-   17th International Convention on Rehabilitation Engineering and Assistive Technology (i-CREATe), 2024.08, Shanghai, China  
+   17th International Convention on Rehabilitation Engineering and Assistive Technology (i-CREATe), 2024.08, Shanghai, China    
    Paper name: Design of a Self-Locking Component for McKibben Muscle Back-Stretchability
 
 7. **Best Conference Paper Award**  
-   17th International Convention on Rehabilitation Engineering and Assistive Technology (i-CREATe), 2024.08, Shanghai, China
+   17th International Convention on Rehabilitation Engineering and Assistive Technology (i-CREATe), 2024.08, Shanghai, China  
    Paper name: Design of a Self-Locking Component for McKibben Muscle Back-Stretchability
 
 9. **First Prize of Fresh Ideas Funding Competition**  
-   Mapping the Future of Soft Robotics for Healthcare, 2024.02, Wimbledon, UK
+   Mapping the Future of Soft Robotics for Healthcare, 2024.02, Wimbledon, UK  
    Project name: Development of a Soft Robotic Device for Assisted Support of the Soft Palate
 
 11. **Poster Award**  
-   International Symposium on Info Comm and Mechatronics Technology in Bio-Medical and Healthcare Application (IS 3T-in-3A), 2019.10, Chiba, Japan
+   International Symposium on Info Comm and Mechatronics Technology in Bio-Medical and Healthcare Application (IS 3T-in-3A), 2019.10, Chiba, Japan  
    Paper name: A Control Model for Pneumatic-Artificial-Muscle Based Trans-humeral Prostheses
 
 13. **National Third Prize**  
