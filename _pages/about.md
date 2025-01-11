@@ -89,5 +89,5 @@ Patent
 
 Academic Affiliations
 ======
-![university](logo_u.png)
+<img src='logo_u.png'>
 
