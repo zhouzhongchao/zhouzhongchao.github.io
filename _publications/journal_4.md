@@ -2,7 +2,7 @@
 title: "A GAN based PID controller for highly adaptive control of a pneumatic-artificial-muscle driven antagonistic joint"
 collection: Complex & Intelligent Systems
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/journal_4
 excerpt: 'Keywords: Generative Adversarial Nets(GAN), Learning-based adaptive control, '
 date: 2024/6/4
 venue: 'Complex & Intelligent Systems'
