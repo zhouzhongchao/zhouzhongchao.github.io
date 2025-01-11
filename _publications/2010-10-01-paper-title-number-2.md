@@ -1,15 +1,13 @@
 ---
-title: "A GAN based PID controller for highly adaptive control of a pneumatic-artificial-muscle driven antagonistic joint"
-collection: Complex & Intelligent Systems
+title: "Addressing data imbalance in Sim2Real: ImbalSim2Real scheme and its application in finger joint stiffness self-sensing for soft robot-assisted rehabilitation"
+collection: Frontiers in Bioengineering and Biotechnology
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Keywords: Generative Adversarial Nets(GAN), Learning-based adaptive control, '
-date: 2010-10-01
-venue: 'Complex & Intelligent Systems'
-slidesurl: 'https://link.springer.com/article/10.1007/s40747-024-01488-y'
-paperurl: 'https://link.springer.com/article/10.1007/s40747-024-01488-y'
-citation: 'Zhou, Zhongchao, et al. "A GAN based PID controller for highly adaptive control of a pneumatic-artificial-muscle driven antagonistic joint." Complex & Intelligent Systems (2024): 1-18.'
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: 'Keywords: CycleGAN, self-sensing, soft robot-assisted rehabilitation'
+date: 2024/6/14
+venue: 'Frontiers in Bioengineering and Biotechnology'
+slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Zhou, Zhongchao, et al. "Addressing data imbalance in Sim2Real: ImbalSim2Real scheme and its application in finger joint stiffness self-sensing for soft robot-assisted rehabilitation." Frontiers in Bioengineering and Biotechnology 12 (2024): 1334643.'
 ---
-Upper limb prostheses are commonly propelled by pneumatic artificial muscles organized in an antagonistic arrangement. Nonetheless, the control of upper limb prostheses under changing/unknown situations is difficult and necessary for a variety of real-world applications. Adaptive control, learning-based control, and robust control have been studied to deal with such challenges. However, their adaptability is insufficient for prostheses used in daily life, which are exposed to variable task levels, user motor characteristics, and prosthetic features. This paper introduces a highly adaptive controller for the first time based on Generative Adversarial Nets and proportional–integral–derivative controller (G-PID controller). G-PID controller comprises a generator for generating compensation actions to enhance PID responsiveness when controlling the unknown/changing system. Moreover, it incorporates a discriminator that receives responses from both a user-preselected reference system and the compensated changing/unknown system, and simultaneously determines the source of these responses. Through continuous updates, the compensator modifies the response of unknown/changing system to align with the reference system, thereby facilitating adaptive control. The G-PID controller’s effectiveness is evaluated through 1-degree of freedom (DoF) joint and 2-DoF shoulder prostheses in simulation experiments, and further validated in prototype experiments focusing on online learning for unknown and time-varying payload. The results demonstrate its ability to deal with diverse types of unknowns/changes, marking a significant advancement towards incorporating prostheses seamlessly into daily life.
-
-
+The simulation-to-reality (sim2real) problem is a common issue when deploying simulation-trained models to real-world scenarios, especially given the extremely high imbalance between simulation and real-world data (scarce real-world data). Although the cycle-consistent generative adversarial network (CycleGAN) has demonstrated promise in addressing some sim2real issues, it encounters limitations in situations of data imbalance due to the lower capacity of the discriminator and the indeterminacy of learned sim2real mapping. To overcome such problems, we proposed the imbalanced Sim2Real scheme (ImbalSim2Real). Differing from CycleGAN, the ImbalSim2Real scheme segments the dataset into paired and unpaired data for two-fold training. The unpaired data incorporated discriminator-enhanced samples to further squash the solution space of the discriminator, for enhancing the discriminator’s ability. For paired data, a term targeted regression loss was integrated to ensure specific and quantitative mapping and further minimize the solution space of the generator. The ImbalSim2Real scheme was validated through numerical experiments, demonstrating its superiority over conventional sim2real methods. In addition, as an application of the proposed ImbalSim2Real scheme, we designed a finger joint stiffness self-sensing framework, where the validation loss for estimating real-world finger joint stiffness was reduced by roughly 41% compared to the supervised learning method that was trained with scarce real-world data and by 56% relative to the CycleGAN trained with the imbalanced dataset. Our proposed scheme and framework have potential applicability to bio-signal estimation when facing an imbalanced sim2real problem.
