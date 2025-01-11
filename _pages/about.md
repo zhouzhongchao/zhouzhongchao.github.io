@@ -40,37 +40,56 @@ Education
 
 Awards and Recognitions
 ======
-1. **2018.11 Third Prize**  
-   Nanohana Startup Competition, Chiba University
+1. **Third Prize**  
+   Nanohana Startup Competition, 2024.10, Chiba University  
+   Project name: PneumGo–空気圧制御システムソリューション
 
-2. **2024.08 Good Project Award**  
-   Global Student Innovation Challenge Competition, Shanghai, China
+3. **Good Project Award**  
+   Global Student Innovation Challenge Competition, 2024.08, Shanghai, China
+   Project name: PneumGo-The Intelligent Modular Pneumatic Control System for soft-robot Rehabilitation
 
-3. **2024.08 Best Paper Award in Universal Design**  
-   17th i-CREATe & WRRC 2024, Shanghai, China
+5. **Best Paper Award in Universal Design**  
+   17th International Convention on Rehabilitation Engineering and Assistive Technology (i-CREATe), 2024.08, Shanghai, China  
+   Paper name: Design of a Self-Locking Component for McKibben Muscle Back-Stretchability
 
-4. **2024.08 Best Conference Paper Award**  
-   17th i-CREATe & WRRC 2024, Shanghai, China
+7. **Best Conference Paper Award**  
+   17th International Convention on Rehabilitation Engineering and Assistive Technology (i-CREATe), 2024.08, Shanghai, China
+   Paper name: Design of a Self-Locking Component for McKibben Muscle Back-Stretchability
 
-5. **2024.02 First Prize of Fresh Ideas Funding Competition**  
-   Mapping the Future of Soft Robotics for Healthcare, Wimbledon, UK
+9. **First Prize of Fresh Ideas Funding Competition**  
+   Mapping the Future of Soft Robotics for Healthcare, 2024.02, Wimbledon, UK
+   Project name: Development of a Soft Robotic Device for Assisted Support of the Soft Palate
 
-6. **2018.10 Poster Award**  
-   IS 3T-in-3A, Chiba, Japan
+11. **Poster Award**  
+   International Symposium on Info Comm and Mechatronics Technology in Bio-Medical and Healthcare Application (IS 3T-in-3A), 2019.10, Chiba, Japan
+   Paper name: A Control Model for Pneumatic-Artificial-Muscle Based Trans-humeral Prostheses
 
-7. **2017.10 National Third Prize**  
-   National Environmental Friendly Science and Technology Competition(全国环境友好科技竞赛)
+13. **National Third Prize**  
+   National Environmental Friendly Science and Technology Competition,2017.10 (全国环境友好科技竞赛)
    
-8. **2016.10 National Third Prize**  
-   National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction(全国大学生节能减排社会实践与科技竞赛)
+14. **National Third Prize**  
+   National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction, 2016.10 (全国大学生节能减排社会实践与科技竞赛)
 
-9. **2016.10 Provincial First Prize**
-    The “Challenge Cup”(挑战杯)
+15. **Provincial First Prize**  
+   The “Challenge Cup”, 2016.10 (挑战杯)
+
+16. **8 other provincial-level competitions award**  
 
 
 Patent
 ======
 
+1. **Invention patent: CN106968230A**  
+   A New Type of Energy-Saving Shallow Sea Enteromorpha Collection Device(一种节能新型浅海浒苔收集装置)
+
+2. **Invention patent: CN107469450A**  
+   A Dual-Layer Filtration Enteromorpha Collection Device(一种双层过滤浒苔收集装置)
+3. **Five additional utility model patents**  
+
+Competitive Research Funding recieved so far
+======
+1. Research Fellowship for Informatics-based Medical Engineering
+2. 
 
 Academic Affiliations
 ======
