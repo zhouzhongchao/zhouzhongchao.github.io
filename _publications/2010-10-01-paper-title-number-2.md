@@ -2,7 +2,7 @@
 title: "Addressing data imbalance in Sim2Real: ImbalSim2Real scheme and its application in finger joint stiffness self-sensing for soft robot-assisted rehabilitation"
 collection: Frontiers in Bioengineering and Biotechnology
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2015-10-01-paper-title-number-2
 excerpt: 'Keywords: imbalanced sim2real problem, CycleGAN, self-sensing, soft robot-assisted rehabilitation'
 date: 2024/6/14
 venue: 'Frontiers in Bioengineering and Biotechnology'
