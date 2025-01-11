@@ -1,6 +1,6 @@
 ---
-title: "Paper Title Number 4"
-collection: publications
+title: "Addressing data imbalance in Sim2Real: ImbalSim2Real scheme and its application in finger joint stiffness self-sensing for soft robot-assisted rehabilitation"
+collection: Frontiers in Bioengineering and Biotechnology
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
