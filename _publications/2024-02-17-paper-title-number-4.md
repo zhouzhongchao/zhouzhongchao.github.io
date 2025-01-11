@@ -1,13 +1,12 @@
 ---
-title: "Addressing data imbalance in Sim2Real: ImbalSim2Real scheme and its application in finger joint stiffness self-sensing for soft robot-assisted rehabilitation"
-collection: Frontiers in Bioengineering and Biotechnology
+title: "A Simulation Study on Model Reference Adaptive Trajectory Controller for Back Stretchable McKibben Pneumatic Artificial Muscles"
+collection:  17th International Convention on Rehabilitation Engineering and Assistive Technology (i-CREATe)
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
+excerpt: 'Keywords: Model reference adaptive control,back stretchable McKibben Pneumatic Artificial Muscles'
+date: 2024/8/23
+venue: '17th International Convention on Rehabilitation Engineering and Assistive Technology (i-CREATe)'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: 'Zhou, Zhongchao, et al. "A Simulation Study on Model Reference Adaptive Trajectory Controller for Back Stretchable McKibben Pneumatic Artificial Muscles." 2024 17th International Convention on Rehabilitation Engineering and Assistive Technology (i-CREATe). IEEE, 2024.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+McKibben Pneumatic Artificial Muscles (PAMs) have been widely used in wearable and assistive robots due to their high compliance, and safety for human-robot interaction. While replacing one side of a PAM with pre-tensioned springs in an antagonistic configuration helps mitigate nonlinearity, it sacrifices the system's bidirectional actuation and faces challenges due to the typically unknown or fatigue-prone spring constants, making static controllers unsuitable for PAMs-spring driven antagonistic structure. To overcome these limitations, we propose a novel antagonistic structure that integrates both sides with PAMs enhanced by a back stretchable component (BSC), featuring a spring with a self-locking mechanism. This configuration enables effective bidirectional movement by locking and pulling the opposite BSC upon the actuation of one side. To manage the variability or unkown of the spring constant effectively, we introduce a Model Reference Adaptive Trajectory (MRAT) controller specifically designed for the PAMs-BSC driven system. The MRAT controller dynamically aligns the system's control response with a predefined reference model, ensuring adaptive control even with variable spring constants. In simulation experiments, systems with different spring constants were controlled for position tracking and compared with a conventional Sliding Mode Controller. The results indicated that the proposed MRAT controller ensures robustness and predictability of response despite the unknown or variable spring constants, which making MRAT controller more suitable for human-robot interaction scenarios.
