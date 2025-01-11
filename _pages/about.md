@@ -58,6 +58,15 @@ Awards and Recognitions
 6. **2018.10 Poster Award**  
    IS 3T-in-3A, Chiba, Japan
 
+7. **2017.10 National Third Prize**  
+   National Environmental Friendly Science and Technology Competition(全国环境友好科技竞赛)
+   
+8. **2016.10 National Third Prize**  
+   National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction(全国大学生节能减排社会实践与科技竞赛)
+
+9. **2016.10 Provincial First Prize**
+    The “Challenge Cup”(挑战杯)
+
 
 Patent
 ======
