@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "jp-Japan"
+locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zhongchao Zhou(周忠潮)"
