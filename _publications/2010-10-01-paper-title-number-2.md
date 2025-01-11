@@ -3,7 +3,7 @@ title: "Addressing data imbalance in Sim2Real: ImbalSim2Real scheme and its appl
 collection: Frontiers in Bioengineering and Biotechnology
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'Keywords: CycleGAN, self-sensing, soft robot-assisted rehabilitation'
+excerpt: 'Keywords: imbalanced sim2real problem, CycleGAN, self-sensing, soft robot-assisted rehabilitation'
 date: 2024/6/14
 venue: 'Frontiers in Bioengineering and Biotechnology'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
