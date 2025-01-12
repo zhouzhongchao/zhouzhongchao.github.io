@@ -12,7 +12,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zhongchao Zhou(周忠潮)"
 description              : &description "personal description"
-url                      : https://zhouzhongchao.github.io/zhouzhongchao/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://zhouzhongchao.github.io/zhouzhongchaotest/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "# the subpath of your site, e.g. "/blog" 
 repository               : "academicpages/academicpages.github.io"
 
